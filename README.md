@@ -1,34 +1,35 @@
-# Ex.06 Book Front Cover Page Design
-## Date:
+# Ex.05 Design a Website for Server Side Processing
+## Date: 12.10.25
 
 ## AIM:
-To design a book front cover page using HTML and CSS.
+ To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
+
+
+## FORMULA:
+P = I<sup>2</sup>R
+<br> P --> Power (in watts)
+<br> I --> Intensity
+<br> R --> Resistance
 
 ## DESIGN STEPS:
 
 ### Step 1:
-Create a Django Admin project.
+Clone the repository from GitHub.
 
 ### Step 2:
-Create an app in the Django interface.
+Create Django Admin project.
 
 ### Step 3:
-Create a folder named 'static' in the app folder.
+Create a New App under the Django Admin project.
 
 ### Step 4:
-Create a new HTML file in the static folder.
+Create python programs for views and urls to perform server side processing.
 
 ### Step 5:
-Write the HTML code with relevant CSS properties.
+Create a HTML file to implement form based input and output.
 
 ### Step 6:
-Choose the appropriate style and color scheme.
-
-### Step 7:
-Insert the images in their appropriate places.
-
-### Step 8:
-Publish the website in the LocalHost.
+Publish the website in the given URL.
 
 ## PROGRAM:
 ```
@@ -128,4 +129,6 @@ urlpatterns = [
 
 
 ## RESULT:
-The program for designing book front cover page using HTML and CSS is completed successfully.
+
+The program for performing server side processing is completed successfully.
+
